@@ -1,6 +1,17 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: page
 ---
+
+<style>
+  div.resident_image {
+
+    font-size: 0.2em;
+    line-height: 1em;
+
+  }
+</style>
+
+<div class="resident_image">{% include_relative resident-photos/tareq.html %}</div>
+<div class="resident_image">{% include_relative resident-photos/drew.html %}</div>
+<div class="resident_image">{% include_relative resident-photos/jess.html %}</div>
+<div class="resident_image">{% include_relative resident-photos/jess_alt.html %}</div>
