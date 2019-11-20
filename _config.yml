@@ -30,7 +30,7 @@ github_username:  tareqdandachi
 # Build settings
 remote_theme: tareqdandachi/jekyll-shell-theme
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
