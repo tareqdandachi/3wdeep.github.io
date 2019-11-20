@@ -15,4 +15,5 @@ layout: page
 <div class="resident_image">{% include_relative resident-photos/tareq.html %}</div>
 <div class="resident_image">{% include_relative resident-photos/drew.html %}</div>
 <div class="resident_image">{% include_relative resident-photos/jess.html %}</div>
-<div class="resident_image">{% include_relative resident-photos/jess_alt.html %}</div>
+<div class="resident_image">{% include_relative resident-photos/monica.html %}</div>
+<div class="resident_image">{% include_relative resident-photos/luz.html %}</div>
