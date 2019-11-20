@@ -28,7 +28,7 @@ twitter_username: tareqdandachi
 github_username:  tareqdandachi
 
 # Build settings
-theme: minima
+remote_theme: tareqdandachi/jekyll-shell-theme
 plugins:
   - jekyll-feed
 
