@@ -12,8 +12,8 @@ layout: page
   }
 </style>
 
-<div class="resident_image">{% include_relative assets/resident-photos/tareq.html %}</div>
-<div class="resident_image">{% include_relative assets/resident-photos/drew.html %}</div>
-<div class="resident_image">{% include_relative assets/resident-photos/jess.html %}</div>
-<div class="resident_image">{% include_relative assets/resident-photos/monica.html %}</div>
-<div class="resident_image">{% include_relative assets/resident-photos/luz.html %}</div>
+<div class="resident_image">{% include_relative residents/resident-photos/tareq.html %}</div>
+<div class="resident_image">{% include_relative residents/resident-photos/aadrewj.html %}</div>
+<div class="resident_image">{% include_relative residents/resident-photos/jnh.html %}</div>
+<div class="resident_image">{% include_relative residents/resident-photos/mqliu.html %}</div>
+<div class="resident_image">{% include_relative residents/resident-photos/luzg.html %}</div>

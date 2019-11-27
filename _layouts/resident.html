@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<style>
+  div.resident_image {
+
+    font-size: 0.1em !important;
+    line-height: 1em !important;
+    display: block !important;
+
+  }
+</style>
+
+<div class="resident_image">{% include_relative resident-photos/{{ page.kerb }}.html %}</div>
+
+{{ content }}
