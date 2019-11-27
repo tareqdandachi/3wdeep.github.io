@@ -2,6 +2,8 @@
 layout: post
 title: "PARTIES"
 post-title:  "Post-Modernist Deep Mega Glasses Painting Party Bananza-Extravaganza"
+
+detail_image: assets/bonanza_poster.png
 ---
 
 <div role="region" autoid="_rp_K" class="_rp_Q3">  <div class="itemPartBody _rp_S3 ms-font-weight-regular ms-font-color-neutralDark" style="display: none;"></div>  <div autoid="_rp_L" class="_rp_R3" style="display: none;"></div>  <div><div autoid="_rp_M" class="_rp_R3 rpHighlightAllClass rpHighlightBodyClass allowTextSelection" style="">  <div aria-label="Message Body" role="document" tabindex="0" style="display: none;"></div>  <div style=""> <div class="_rp_S3 ms-font-weight-regular ms-font-color-neutralDark" role="button" tabindex="0"><div class="rps_ea0d"><style type="text/css"><!-- .rps_ea0d p
