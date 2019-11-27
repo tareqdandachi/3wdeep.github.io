@@ -18,6 +18,6 @@ Residents of the **Deep**:
 
 <ul>
 {%- for resident in page.residents -%}
-<li><a href="/the-deep/residents/{{ resident }}">{{ resident }}</a></li>
+<li><a href="{{ site.baseurl }}/residents/{{ resident }}">{{ resident }}</a></li>
 {%- endfor -%}
 </ul>
