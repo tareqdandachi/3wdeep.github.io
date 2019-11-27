@@ -7,6 +7,7 @@ permalink_name: residents
 residents:
   - aadrewj
   - changk
+  - hsavoldy
   - jnh
   - luzg
   - mqliu

@@ -3,15 +3,9 @@ layout: default
 ---
 
 <style>
-  div.resident_image {
-
-    font-size: 0.1px !important;
-    line-height: 1em !important;
-    display: block !important;
-
-  }
+  img.resident_image { width: 100% }
 </style>
 
-<div class="resident_image">{% include_relative resident-photos/{{ page.kerb }}.html %}</div>
+<img src="resident-photos/{{ page.kerb }}.svg" class="resident_image">
 
 {{ content }}
