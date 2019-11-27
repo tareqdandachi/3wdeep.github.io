@@ -13,13 +13,13 @@ Yeah, sure, maybe like, Math Major, gender is Male.
 Age 20, year 2021.
 
 I like:
--Food
--Eating
--Some math
--Spending money (especially on food)
--TV
+- Food
+- Eating
+- Some math
+- Spending money (especially on food)
+- TV
 
 I don't like:
--Coding
--Losing
--Most math
+- Coding
+- Losing
+- Most math
