@@ -1,6 +1,6 @@
 ---
 layout: resident
-title: Kevin's Topology #can be anything you want
+title: Howdy, I'm Kevin! #can be anything you want
 name: Kevin #your name
 kerb: changk #your kerberos
 
@@ -11,3 +11,15 @@ I mean, uhhh, I... uk... I'll think about it.
 
 Yeah, sure, maybe like, Math Major, gender is Male.
 Age 20, year 2021.
+
+I like:
+- Food
+- Eating
+- Some math
+- Spending money (especially on food)
+- TV
+
+I don't like:
+- Coding
+- Losing
+- Most math
