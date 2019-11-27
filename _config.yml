@@ -22,8 +22,8 @@ title: The Deep
 email: the-deep@mit.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is the official website for The Deep.
-baseurl: "/the-deep" # the subpath of your site, e.g. /blog
-url: "tareqdandachi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "3wdeep.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tareqdandachi
 github_username:  tareqdandachi
 
