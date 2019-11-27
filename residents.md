@@ -8,6 +8,8 @@ residents:
   - aadrewj
   - changk
   - jnh
+  - luzg
+  - mqliu
   - tareq
 ---
 
