@@ -16,3 +16,4 @@ detail_image: assets/logo_corrupt.png
 - [Spotify Playlists](/the-deep/spotify)
 - [Purity Test](/the-deep/purity_test)
 - [Movie Picker](https://tareqdandachi.github.io/Movie-Picker/pick)
+- [Deep Parties](/the-deep/parties)

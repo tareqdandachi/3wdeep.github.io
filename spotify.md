@@ -28,6 +28,6 @@ detail_image: assets/spotify.png
 
   <div class="playlist"><iframe src="https://open.spotify.com/embed/playlist/74ZgKkIBQLDBKkcErZMdnc" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
   <h1>The DEEP OST</h1>
-  <p>:pineapple::boom::warning: <br>This is the official chill playlist that all deep members contribute to</p></div>
+  <p>:pineapple::boom::warning: <br>This is the official party playlist for all the deep parties</p></div>
 
 </div>
