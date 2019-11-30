@@ -6,6 +6,7 @@ permalink_name: residents
 
 residents:
   - aadrewj
+  - aolsen0
   - changk
   - hsavoldy
   - jnh
