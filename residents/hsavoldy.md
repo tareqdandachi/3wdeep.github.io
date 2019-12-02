@@ -1,5 +1,6 @@
 ---
 layout: resident
+permalink_name: /residents
 title: 🅱️avoldy #can be anything you want
 name: Hannah #your name
 kerb: hsavoldy #your kerberos
