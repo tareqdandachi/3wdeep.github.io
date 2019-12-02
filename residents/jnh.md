@@ -1,5 +1,6 @@
 ---
 layout: resident
+permalink_name: /residents
 title: Jess's Page #can be anything you want
 name: Jess #your name
 kerb: jnh #your kerberos
