@@ -9,6 +9,7 @@ residents:
   - anitadb1
   - aolsen0
   - changk
+  - gtang
   - hsavoldy
   - jnh
   - luzg
