@@ -1,6 +1,5 @@
 ---
 layout: resident
-permalink_name: /residents
 title: Change This #can be anything you want
 name: Grace #your name
 kerb: gtang #your kerberos

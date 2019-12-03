@@ -1,6 +1,5 @@
 ---
 layout: resident
-permalink_name: /residents
 title: i wanna be a cowboy, baby  #can be anything you want
 name: Anita #your name
 kerb: anitadb1 #your kerberos

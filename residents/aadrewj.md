@@ -1,6 +1,5 @@
 ---
 layout: resident
-permalink_name: /residents
 title: Drewcifer MorningStar's Hellscape #can be anything you want
 name: Drew #your name
 kerb: aadrewj #your kerberos

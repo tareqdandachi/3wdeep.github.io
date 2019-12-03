@@ -1,6 +1,5 @@
 ---
 layout: resident
-permalink_name: /residents
 title: Torq #can be anything you want
 name: Tareq #your name
 kerb: tareq #your kerberos
