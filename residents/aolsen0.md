@@ -1,6 +1,5 @@
 ---
 layout: resident
-permalink_name: /residents
 title: I Don't Fucking Care #can be anything you want
 name: Anders #your name
 kerb: aolsen0 #your kerberos

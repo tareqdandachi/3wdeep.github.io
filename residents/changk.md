@@ -1,6 +1,5 @@
 ---
 layout: resident
-permalink_name: /residents
 title: Howdy, I'm Kevin! #can be anything you want
 name: Kevin #your name
 kerb: changk #your kerberos

@@ -1,6 +1,5 @@
 ---
 layout: resident
-permalink_name: /residents
 title: road work ahead #can be anything you want
 name: Monica #your name
 kerb: mqliu #your kerberos
